@@ -1,0 +1,9 @@
+fastapi==0.128.0
+uvicorn==0.40.0
+sentence-transformers==5.2.0
+pypdf==6.5.0
+openai==2.14.0
+faiss-cpu==1.13.2
+python-multipart==0.0.21
+# Optional: include torch if needed (already installed in environment)
+# torch==2.9.1
